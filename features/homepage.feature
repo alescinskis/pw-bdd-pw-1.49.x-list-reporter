@@ -1,3 +1,4 @@
+@playwright
 Feature: Playwright Home Page
 
     Scenario: Check title
